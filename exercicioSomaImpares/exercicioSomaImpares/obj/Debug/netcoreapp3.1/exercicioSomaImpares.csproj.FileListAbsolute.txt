@@ -1,0 +1,14 @@
+C:\temp\ws-vs2019\exercicioSomaImpares\exercicioSomaImpares\bin\Debug\netcoreapp3.1\exercicioSomaImpares.exe
+C:\temp\ws-vs2019\exercicioSomaImpares\exercicioSomaImpares\bin\Debug\netcoreapp3.1\exercicioSomaImpares.deps.json
+C:\temp\ws-vs2019\exercicioSomaImpares\exercicioSomaImpares\bin\Debug\netcoreapp3.1\exercicioSomaImpares.runtimeconfig.json
+C:\temp\ws-vs2019\exercicioSomaImpares\exercicioSomaImpares\bin\Debug\netcoreapp3.1\exercicioSomaImpares.runtimeconfig.dev.json
+C:\temp\ws-vs2019\exercicioSomaImpares\exercicioSomaImpares\bin\Debug\netcoreapp3.1\exercicioSomaImpares.dll
+C:\temp\ws-vs2019\exercicioSomaImpares\exercicioSomaImpares\bin\Debug\netcoreapp3.1\exercicioSomaImpares.pdb
+C:\temp\ws-vs2019\exercicioSomaImpares\exercicioSomaImpares\obj\Debug\netcoreapp3.1\exercicioSomaImpares.csproj.AssemblyReference.cache
+C:\temp\ws-vs2019\exercicioSomaImpares\exercicioSomaImpares\obj\Debug\netcoreapp3.1\exercicioSomaImpares.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2019\exercicioSomaImpares\exercicioSomaImpares\obj\Debug\netcoreapp3.1\exercicioSomaImpares.AssemblyInfoInputs.cache
+C:\temp\ws-vs2019\exercicioSomaImpares\exercicioSomaImpares\obj\Debug\netcoreapp3.1\exercicioSomaImpares.AssemblyInfo.cs
+C:\temp\ws-vs2019\exercicioSomaImpares\exercicioSomaImpares\obj\Debug\netcoreapp3.1\exercicioSomaImpares.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\exercicioSomaImpares\exercicioSomaImpares\obj\Debug\netcoreapp3.1\exercicioSomaImpares.dll
+C:\temp\ws-vs2019\exercicioSomaImpares\exercicioSomaImpares\obj\Debug\netcoreapp3.1\exercicioSomaImpares.pdb
+C:\temp\ws-vs2019\exercicioSomaImpares\exercicioSomaImpares\obj\Debug\netcoreapp3.1\exercicioSomaImpares.genruntimeconfig.cache

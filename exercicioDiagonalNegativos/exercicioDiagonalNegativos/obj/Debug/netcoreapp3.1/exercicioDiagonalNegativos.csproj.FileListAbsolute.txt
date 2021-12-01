@@ -1,0 +1,14 @@
+C:\temp\ws-vs2019\exercicioDiagonalNegativos\exercicioDiagonalNegativos\bin\Debug\netcoreapp3.1\exercicioDiagonalNegativos.exe
+C:\temp\ws-vs2019\exercicioDiagonalNegativos\exercicioDiagonalNegativos\bin\Debug\netcoreapp3.1\exercicioDiagonalNegativos.deps.json
+C:\temp\ws-vs2019\exercicioDiagonalNegativos\exercicioDiagonalNegativos\bin\Debug\netcoreapp3.1\exercicioDiagonalNegativos.runtimeconfig.json
+C:\temp\ws-vs2019\exercicioDiagonalNegativos\exercicioDiagonalNegativos\bin\Debug\netcoreapp3.1\exercicioDiagonalNegativos.runtimeconfig.dev.json
+C:\temp\ws-vs2019\exercicioDiagonalNegativos\exercicioDiagonalNegativos\bin\Debug\netcoreapp3.1\exercicioDiagonalNegativos.dll
+C:\temp\ws-vs2019\exercicioDiagonalNegativos\exercicioDiagonalNegativos\bin\Debug\netcoreapp3.1\exercicioDiagonalNegativos.pdb
+C:\temp\ws-vs2019\exercicioDiagonalNegativos\exercicioDiagonalNegativos\obj\Debug\netcoreapp3.1\exercicioDiagonalNegativos.csproj.AssemblyReference.cache
+C:\temp\ws-vs2019\exercicioDiagonalNegativos\exercicioDiagonalNegativos\obj\Debug\netcoreapp3.1\exercicioDiagonalNegativos.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2019\exercicioDiagonalNegativos\exercicioDiagonalNegativos\obj\Debug\netcoreapp3.1\exercicioDiagonalNegativos.AssemblyInfoInputs.cache
+C:\temp\ws-vs2019\exercicioDiagonalNegativos\exercicioDiagonalNegativos\obj\Debug\netcoreapp3.1\exercicioDiagonalNegativos.AssemblyInfo.cs
+C:\temp\ws-vs2019\exercicioDiagonalNegativos\exercicioDiagonalNegativos\obj\Debug\netcoreapp3.1\exercicioDiagonalNegativos.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\exercicioDiagonalNegativos\exercicioDiagonalNegativos\obj\Debug\netcoreapp3.1\exercicioDiagonalNegativos.dll
+C:\temp\ws-vs2019\exercicioDiagonalNegativos\exercicioDiagonalNegativos\obj\Debug\netcoreapp3.1\exercicioDiagonalNegativos.pdb
+C:\temp\ws-vs2019\exercicioDiagonalNegativos\exercicioDiagonalNegativos\obj\Debug\netcoreapp3.1\exercicioDiagonalNegativos.genruntimeconfig.cache

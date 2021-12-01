@@ -1,0 +1,14 @@
+C:\temp\ws-vs2019\exercicioSomaVetor\exercicioSomaVetor\bin\Debug\netcoreapp3.1\exercicioSomaVetor.exe
+C:\temp\ws-vs2019\exercicioSomaVetor\exercicioSomaVetor\bin\Debug\netcoreapp3.1\exercicioSomaVetor.deps.json
+C:\temp\ws-vs2019\exercicioSomaVetor\exercicioSomaVetor\bin\Debug\netcoreapp3.1\exercicioSomaVetor.runtimeconfig.json
+C:\temp\ws-vs2019\exercicioSomaVetor\exercicioSomaVetor\bin\Debug\netcoreapp3.1\exercicioSomaVetor.runtimeconfig.dev.json
+C:\temp\ws-vs2019\exercicioSomaVetor\exercicioSomaVetor\bin\Debug\netcoreapp3.1\exercicioSomaVetor.dll
+C:\temp\ws-vs2019\exercicioSomaVetor\exercicioSomaVetor\bin\Debug\netcoreapp3.1\exercicioSomaVetor.pdb
+C:\temp\ws-vs2019\exercicioSomaVetor\exercicioSomaVetor\obj\Debug\netcoreapp3.1\exercicioSomaVetor.csproj.AssemblyReference.cache
+C:\temp\ws-vs2019\exercicioSomaVetor\exercicioSomaVetor\obj\Debug\netcoreapp3.1\exercicioSomaVetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2019\exercicioSomaVetor\exercicioSomaVetor\obj\Debug\netcoreapp3.1\exercicioSomaVetor.AssemblyInfoInputs.cache
+C:\temp\ws-vs2019\exercicioSomaVetor\exercicioSomaVetor\obj\Debug\netcoreapp3.1\exercicioSomaVetor.AssemblyInfo.cs
+C:\temp\ws-vs2019\exercicioSomaVetor\exercicioSomaVetor\obj\Debug\netcoreapp3.1\exercicioSomaVetor.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\exercicioSomaVetor\exercicioSomaVetor\obj\Debug\netcoreapp3.1\exercicioSomaVetor.dll
+C:\temp\ws-vs2019\exercicioSomaVetor\exercicioSomaVetor\obj\Debug\netcoreapp3.1\exercicioSomaVetor.pdb
+C:\temp\ws-vs2019\exercicioSomaVetor\exercicioSomaVetor\obj\Debug\netcoreapp3.1\exercicioSomaVetor.genruntimeconfig.cache

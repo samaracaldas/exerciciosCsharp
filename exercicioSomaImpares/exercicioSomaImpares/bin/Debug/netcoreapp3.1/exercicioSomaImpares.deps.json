@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "exercicioSomaImpares/1.0.0": {
+        "runtime": {
+          "exercicioSomaImpares.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "exercicioSomaImpares/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

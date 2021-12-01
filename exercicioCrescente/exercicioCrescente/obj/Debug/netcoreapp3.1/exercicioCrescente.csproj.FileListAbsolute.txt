@@ -1,0 +1,14 @@
+C:\temp\ws-vs2019\exercicioCrescente\exercicioCrescente\bin\Debug\netcoreapp3.1\exercicioCrescente.exe
+C:\temp\ws-vs2019\exercicioCrescente\exercicioCrescente\bin\Debug\netcoreapp3.1\exercicioCrescente.deps.json
+C:\temp\ws-vs2019\exercicioCrescente\exercicioCrescente\bin\Debug\netcoreapp3.1\exercicioCrescente.runtimeconfig.json
+C:\temp\ws-vs2019\exercicioCrescente\exercicioCrescente\bin\Debug\netcoreapp3.1\exercicioCrescente.runtimeconfig.dev.json
+C:\temp\ws-vs2019\exercicioCrescente\exercicioCrescente\bin\Debug\netcoreapp3.1\exercicioCrescente.dll
+C:\temp\ws-vs2019\exercicioCrescente\exercicioCrescente\bin\Debug\netcoreapp3.1\exercicioCrescente.pdb
+C:\temp\ws-vs2019\exercicioCrescente\exercicioCrescente\obj\Debug\netcoreapp3.1\exercicioCrescente.csproj.AssemblyReference.cache
+C:\temp\ws-vs2019\exercicioCrescente\exercicioCrescente\obj\Debug\netcoreapp3.1\exercicioCrescente.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2019\exercicioCrescente\exercicioCrescente\obj\Debug\netcoreapp3.1\exercicioCrescente.AssemblyInfoInputs.cache
+C:\temp\ws-vs2019\exercicioCrescente\exercicioCrescente\obj\Debug\netcoreapp3.1\exercicioCrescente.AssemblyInfo.cs
+C:\temp\ws-vs2019\exercicioCrescente\exercicioCrescente\obj\Debug\netcoreapp3.1\exercicioCrescente.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\exercicioCrescente\exercicioCrescente\obj\Debug\netcoreapp3.1\exercicioCrescente.dll
+C:\temp\ws-vs2019\exercicioCrescente\exercicioCrescente\obj\Debug\netcoreapp3.1\exercicioCrescente.pdb
+C:\temp\ws-vs2019\exercicioCrescente\exercicioCrescente\obj\Debug\netcoreapp3.1\exercicioCrescente.genruntimeconfig.cache

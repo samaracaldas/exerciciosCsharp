@@ -1,0 +1,14 @@
+C:\temp\ws-vs2019\exercicioMenorDeTres\exercicioMenorDeTres\bin\Debug\netcoreapp3.1\exercicioMenorDeTres.exe
+C:\temp\ws-vs2019\exercicioMenorDeTres\exercicioMenorDeTres\bin\Debug\netcoreapp3.1\exercicioMenorDeTres.deps.json
+C:\temp\ws-vs2019\exercicioMenorDeTres\exercicioMenorDeTres\bin\Debug\netcoreapp3.1\exercicioMenorDeTres.runtimeconfig.json
+C:\temp\ws-vs2019\exercicioMenorDeTres\exercicioMenorDeTres\bin\Debug\netcoreapp3.1\exercicioMenorDeTres.runtimeconfig.dev.json
+C:\temp\ws-vs2019\exercicioMenorDeTres\exercicioMenorDeTres\bin\Debug\netcoreapp3.1\exercicioMenorDeTres.dll
+C:\temp\ws-vs2019\exercicioMenorDeTres\exercicioMenorDeTres\bin\Debug\netcoreapp3.1\exercicioMenorDeTres.pdb
+C:\temp\ws-vs2019\exercicioMenorDeTres\exercicioMenorDeTres\obj\Debug\netcoreapp3.1\exercicioMenorDeTres.csproj.AssemblyReference.cache
+C:\temp\ws-vs2019\exercicioMenorDeTres\exercicioMenorDeTres\obj\Debug\netcoreapp3.1\exercicioMenorDeTres.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2019\exercicioMenorDeTres\exercicioMenorDeTres\obj\Debug\netcoreapp3.1\exercicioMenorDeTres.AssemblyInfoInputs.cache
+C:\temp\ws-vs2019\exercicioMenorDeTres\exercicioMenorDeTres\obj\Debug\netcoreapp3.1\exercicioMenorDeTres.AssemblyInfo.cs
+C:\temp\ws-vs2019\exercicioMenorDeTres\exercicioMenorDeTres\obj\Debug\netcoreapp3.1\exercicioMenorDeTres.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\exercicioMenorDeTres\exercicioMenorDeTres\obj\Debug\netcoreapp3.1\exercicioMenorDeTres.dll
+C:\temp\ws-vs2019\exercicioMenorDeTres\exercicioMenorDeTres\obj\Debug\netcoreapp3.1\exercicioMenorDeTres.pdb
+C:\temp\ws-vs2019\exercicioMenorDeTres\exercicioMenorDeTres\obj\Debug\netcoreapp3.1\exercicioMenorDeTres.genruntimeconfig.cache

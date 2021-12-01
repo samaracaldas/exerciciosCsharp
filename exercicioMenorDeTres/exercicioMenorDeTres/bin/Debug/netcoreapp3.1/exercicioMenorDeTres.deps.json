@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "exercicioMenorDeTres/1.0.0": {
+        "runtime": {
+          "exercicioMenorDeTres.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "exercicioMenorDeTres/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
